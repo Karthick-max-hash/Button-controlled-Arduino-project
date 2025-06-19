@@ -9,7 +9,7 @@ This is a basic Arduino project built in Tinkercad that demonstrates:
 
 It uses the Arduino's internal pull-up resistor to simplify the button circuit.
 
----
+circuit diagram->https://www.tinkercad.com/things/ac3SeGKCHmy-button-controlled-buzzer-led
 
 ## 🛠 Components Used
 
